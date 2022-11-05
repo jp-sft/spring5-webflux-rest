@@ -1,0 +1,8 @@
+GET http://localhost:8080/api/categories/636626fa67ee9938c0263a2b
+Accept: application/json
+
+###
+GET http://localhost:8080/api/categories
+Accept: application/json
+
+###
